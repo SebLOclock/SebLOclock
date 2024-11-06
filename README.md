@@ -1,7 +1,7 @@
 # Sébastien Lemoine
 
-🗂️ [Protfolio](https://sebloclock.github.io)
-🟦 [Profil Linkedin](https://www.linkedin.com/in/s%C3%A9bastien-lemoine-679b3b52/)
+- 🗂️ [Protfolio](https://sebloclock.github.io)
+- 🟦 [Profil Linkedin](https://www.linkedin.com/in/s%C3%A9bastien-lemoine-679b3b52/)
 
 ## La vie est faite de connaissances, et, la connaissance, c'est la vie.
 
