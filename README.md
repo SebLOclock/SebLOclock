@@ -1,5 +1,8 @@
 # Sébastien Lemoine
 
+🗂️ [Protfolio](https://sebloclock.github.io)
+🟦 [Profil Linkedin](https://www.linkedin.com/in/s%C3%A9bastien-lemoine-679b3b52/)
+
 ## La vie est faite de connaissances, et, la connaissance, c'est la vie.
 
 Il y a des parcours qui se dessinent comme une œuvre d’art, où chaque coup de pinceau représente une étape de la vie, une nouvelle compétence acquise, une passion découverte. Le mien est un peu de cette trempe-là. Plongé dans l’univers captivant du développement, j’ai trouvé mon sanctuaire dans les lignes de code, ces suites de caractères mystérieuses pour certains, mais pour moi, une langue universelle et fascinante. J’ai suivi une formation en développement, une aventure initiatique qui a posé les fondations solides de mon expertise technique et qui m’a permis de plonger dans les abysses du code avec une curiosité insatiable.
