@@ -19,6 +19,7 @@ En tant que Responsable de la formation au sein de O'clock, j’ai à cœur d'ac
 ## 💼 Projets et Contributions
 
 - 🗂️ [Protfolio](https://sebloclock.github.io)
+- 💻 [PMCode](https://marketplace.visualstudio.com/items?itemName=SebLOclock.pmcode)
 
 Je suis convaincu qu'un profil GitHub peut être un véritable portfolio professionnel, illustrant les compétences techniques et l'éthique de travail d'un développeur. J’encourage nos étudiants à enrichir régulièrement leur profil GitHub pour démontrer leur progression, leurs projets, et leur maîtrise des standards de développement.
 
