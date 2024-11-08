@@ -5,6 +5,7 @@
 # 👋 Bonjour, je suis Sébastien, Responsable de Formation dans la Tech
 
 En tant que Responsable de la formation au sein de O'clock, j’ai à cœur d'accompagner les futurs professionnels de la tech vers la réussite en leur transmettant les compétences nécessaires. Ce profil GitHub est un espace où je partage une partie de mon travail, en illustrant les meilleures pratiques que j'encourage chez nos apprenants. Ici, vous trouverez des projets, des outils, et des exemples concrets de ma contribution au domaine de la tech et de la pédagogie.
+
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SebLOclock&show_icons=true&theme=radical)
 
 ## 🚀 À Propos de Moi
