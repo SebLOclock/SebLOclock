@@ -1,3 +1,7 @@
+
+![GitHub followers](https://img.shields.io/github/followers/SebLOclock?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SebLOclock?style=social)
+
 # 👋 Bonjour, je suis Sébastien, Responsable de Formation dans la Tech
 
 En tant que Responsable de la formation au sein de O'clock, j’ai à cœur d'accompagner les futurs professionnels de la tech vers la réussite en leur transmettant les compétences nécessaires. Ce profil GitHub est un espace où je partage une partie de mon travail, en illustrant les meilleures pratiques que j'encourage chez nos apprenants. Ici, vous trouverez des projets, des outils, et des exemples concrets de ma contribution au domaine de la tech et de la pédagogie.
@@ -15,6 +19,9 @@ En tant que Responsable de la formation au sein de O'clock, j’ai à cœur d'ac
 - 🗂️ [Protfolio](https://sebloclock.github.io)
 
 Je suis convaincu qu'un profil GitHub peut être un véritable portfolio professionnel, illustrant les compétences techniques et l'éthique de travail d'un développeur. J’encourage nos étudiants à enrichir régulièrement leur profil GitHub pour démontrer leur progression, leurs projets, et leur maîtrise des standards de développement.
+
+![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=SebLOclock&layout=compact&theme=radical)
+
 
 ## 🎯 Pourquoi GitHub Intéresse les Recruteurs
 
@@ -43,6 +50,10 @@ N'hésitez pas à explorer mes repositories, et à me contacter pour échanger. 
 ---
 
 🔗 [Ecole O'clock](https://oclock.io) - L'école Tech qui prend soin de votre avenir, où que vous soyez !
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SebLOclock&show_icons=true&theme=radical)
+
+
 
 
 
